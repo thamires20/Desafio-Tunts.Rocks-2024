@@ -1,0 +1,15 @@
+{
+  "name": "dasafio_dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "students.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^131.0.0"
+  }
+}
